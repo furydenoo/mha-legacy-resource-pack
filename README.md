@@ -7,7 +7,7 @@ plus the MHA: Legacy title screen, splash texts and pack icon. Minecraft Java **
 
 ```
 resource-pack=https://raw.githubusercontent.com/furydenoo/mha-legacy-resource-pack/main/MHALegacy-ResourcePack.zip
-resource-pack-sha1=f5283c7affcf44ddc998781a9e46aed231ca365e
+resource-pack-sha1=81185ded3e00f7dd1d63c6e4a307e0ca83e1d52e
 require-resource-pack=true
 resource-pack-prompt={"text":"MHA: Legacy server pack","color":"gold"}
 ```
