@@ -1,15 +1,15 @@
-# My Hero Academia: Legacy — Server Resource Pack
+# Craftopia Academia — Server Resource Pack
 
 Custom icons for every Quirk (51), every ability and skill-tree move (765) and the Quirk Focus,
-plus the MHA: Legacy title screen, splash texts and pack icon. Minecraft Java **1.21.11** (pack format 75).
+plus the Craftopia Academia title screen, splash texts and pack icon. Minecraft Java **1.21.11** (pack format 75).
 
 ## Server setup (`server.properties`)
 
 ```
 resource-pack=https://raw.githubusercontent.com/furydenoo/mha-legacy-resource-pack/main/MHALegacy-ResourcePack.zip
-resource-pack-sha1=ebc383f46a5f7b1e3898167a787940e98423267f
+resource-pack-sha1=ad033fcd5d0d2924f62d705c48ea53f3ae35727d
 require-resource-pack=true
-resource-pack-prompt={"text":"MHA: Legacy server pack","color":"gold"}
+resource-pack-prompt={"text":"Craftopia Academia server pack","color":"gold"}
 ```
 
 Every time the zip changes, update `resource-pack-sha1` (players re-download when it changes).
