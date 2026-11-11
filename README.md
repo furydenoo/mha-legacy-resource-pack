@@ -6,13 +6,15 @@ plus the Craftopia Academia title screen, splash texts and pack icon. Minecraft 
 ## Server setup (`server.properties`)
 
 ```
-resource-pack=https://raw.githubusercontent.com/furydenoo/mha-legacy-resource-pack/main/MHALegacy-ResourcePack.zip
+resource-pack=https://raw.githubusercontent.com/furydenoo/mha-legacy-resource-pack/b708d34c5be15e644886f59eaac78952b0fdbc92/MHALegacy-ResourcePack.zip
 resource-pack-sha1=5c427edd2097ffb3dbf09275eab852dc18b883bb
 require-resource-pack=true
 resource-pack-prompt={"text":"Craftopia Academia server pack","color":"gold"}
 ```
 
-Every time the zip changes, update `resource-pack-sha1` (players re-download when it changes).
+Every time the zip changes, update `resource-pack-sha1` (players re-download when it changes) and point
+`resource-pack` at that commit (`.../<commit hash>/MHALegacy-ResourcePack.zip`): the `main` link can serve an
+old copy for a few minutes after a push, and a pinned link never does.
 
 The title screen / splashes only show if a player installs the zip in their own `resourcepacks` folder.
 
