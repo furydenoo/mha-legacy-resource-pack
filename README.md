@@ -6,8 +6,8 @@ plus the Craftopia Academia title screen, splash texts and pack icon. Minecraft 
 ## Server setup (`server.properties`)
 
 ```
-resource-pack=https://raw.githubusercontent.com/furydenoo/mha-legacy-resource-pack/4b7d772d1f7aad45b8bce8f7cb05747c3bd308f9/MHALegacy-ResourcePack.zip
-resource-pack-sha1=e82c48e8b5872e3aa1898e1ac22ab8c6afd5de60
+resource-pack=https://raw.githubusercontent.com/furydenoo/mha-legacy-resource-pack/668322779deb02c52484849d97d9f652db2781f7/MHALegacy-ResourcePack.zip
+resource-pack-sha1=8518ffc44e24e845411af7741ba9ce5dac18d6df
 require-resource-pack=true
 resource-pack-prompt={"text":"Craftopia Academia server pack","color":"gold"}
 ```
