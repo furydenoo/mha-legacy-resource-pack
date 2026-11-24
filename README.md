@@ -1,6 +1,6 @@
 # Craftopia Academia — Server Resource Pack
 
-Custom icons for every Quirk, every ability and skill-tree move (795) the Quirk Focus and the Quirk Factor Vial,
+Custom icons for every Quirk, every ability and skill-tree move the Quirk Focus and the Quirk Factor Vial,
 plus the Craftopia Academia title screen, splash texts and pack icon. Minecraft Java **1.21.11** (pack format 75).
 
 ## Server setup (`server.properties`)
